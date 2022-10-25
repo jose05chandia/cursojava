@@ -2,7 +2,7 @@ package com.cursojava.curso;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//otro comentario
 @SpringBootApplication
 public class CursoApplication {
 
